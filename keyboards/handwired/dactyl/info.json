@@ -15,5 +15,8 @@
         "mousekey": true,
         "nkro": true
     },
+    "layout_aliases": {
+        "LAYOUT_all": "LAYOUT"
+    },
     "tags": ["split"]
 }
