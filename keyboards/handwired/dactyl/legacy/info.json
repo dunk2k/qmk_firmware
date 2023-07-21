@@ -1,7 +1,8 @@
 {
     "keyboard_name": "Dactyl",
     "usb": {
-        "pid": "0x1308"
+        "pid": "0x1308",
+        "device_version": "1.0.0"
     },
     "processor": "atmega32u4",
     "bootloader": "halfkay",

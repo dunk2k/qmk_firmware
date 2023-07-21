@@ -3,8 +3,7 @@
     "url": "https://github.com/adereth/dactyl-keyboard",
     "maintainer": "qmk",
     "usb": {
-        "vid": "0xFEED",
-        "device_version": "1.0.0"
+        "vid": "0xFEED"
     },
     "features": {
         "bootmagic": true,

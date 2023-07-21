@@ -13,17 +13,10 @@
         "console": false,
         "mousekey": true,
         "extrakey": true,
-        "audio": false,
-        "rgblight": false,
-        "backlight": false,
         "nkro": false
     },
     "ws2812": {
         "pin": "D3"
-    },
-    "matrix_pins": {
-        "cols": ["D4", "C6", "D7", "E6", "B4", "B5"],
-        "rows": ["F7", "B1", "B3", "B2", "B6"]
     },
     "diode_direction": "COL2ROW",
     "split": {

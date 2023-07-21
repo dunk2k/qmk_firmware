@@ -3,7 +3,12 @@
     "version": 1,
     "author": "dunk2k",
     "notes": "",
-    "keymap": "default",
+    "config": {
+        "features": {
+            "via": true
+        }
+    },
+    "keymap": "via",
     "layout": "LAYOUT",
     "layers": [
         [
