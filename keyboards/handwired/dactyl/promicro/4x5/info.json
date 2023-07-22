@@ -1,5 +1,8 @@
 {
     "keyboard_name": "Dactyl 4x5",
+    "usb": {
+        "device_version": "1.0.0"
+    },
     "matrix_pins": {
         "cols": ["C6", "D7", "E6", "B4", "B5"],
         "rows": ["F7", "B1", "B3", "B2", "B6"]

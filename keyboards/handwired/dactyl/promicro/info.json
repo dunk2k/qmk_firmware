@@ -1,7 +1,6 @@
 {
     "usb": {
-        "pid": "0x3060",
-        "device_version": "1.0.0"
+        "pid": "0x3060"
     },
     "diode_direction": "COL2ROW",
     "split": {
