@@ -1,6 +1,6 @@
-# 60_ansi_arrow_split_bs_7u_spc Keymap
+# 60_ansi_arrow_tsangan_split_bs Keymap
 
-Default 60 ANSI Arrow Split Backspace & 7U Space Keymap by [Sendy YK](https://mr.sendyyk.com).
+Default 60 ANSI Arrow with Tsangan and Split Backspace Keymap by [Sendy YK](https://mr.sendyyk.com).
 
 ```c
     /*
@@ -22,7 +22,7 @@ Default 60 ANSI Arrow Split Backspace & 7U Space Keymap by [Sendy YK](https://mr
 
 Make example for keyboard (after setting up your build environment):
 
-    make <keyboard_folder>:default_60_ansi_arrow_split_bs_7u_spc
+    make <keyboard_folder>:default_60_ansi_arrow_tsangan_split_bs
 
 More information:
 * [Setting Up Your QMK Environment](https://docs.qmk.fm/#/getting_started_build_tools)
