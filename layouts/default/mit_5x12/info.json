@@ -1,9 +1,9 @@
 {
-    "keyboard_name": "Planck MIT 5x12 layout",
+    "keyboard_name": "(Planck) MIT 5x12 layout",
     "url": "",
     "maintainer": "qmk",
     "layouts": {
-        "LAYOUT_planck_mit_5x12": {
+        "LAYOUT_mit_5x12": {
             "layout": [
                 {"x":0, "y":0},
                 {"x":1, "y":0},
