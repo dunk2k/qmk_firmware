@@ -1,9 +1,9 @@
 {
-    "keyboard_name": "60% 64-key ANSI with Split Backspace and Tsangan Layout",
+    "keyboard_name": "60% 64-key ANSI with Split Backspace and (Tsangan) WKL Layout",
     "url": "",
     "maintainer": "qmk",
     "layouts": {
-        "LAYOUT_64_ansi_tsangan_split_bs": {
+        "LAYOUT_64_ansi_wkl_split_bs": {
             "layout": [
                 {"x":0, "y":0},
                 {"x":1, "y":0},
@@ -66,7 +66,6 @@
                 {"x":14, "y":3},
 
                 {"x":0, "y":4, "w":1.5},
-                {"x":1.5, "y":4},
                 {"x":2.5, "y":4, "w":1.5},
                 {"x":4, "y":4, "w":7},
                 {"x":11, "y":4},
