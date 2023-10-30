@@ -1,9 +1,9 @@
 {
-    "keyboard_name": "60% HHKB layout",
+    "keyboard_name": "60% Happy Hacking KeyBoard (HHKB) layout emulated on Tsangan bottom row",
     "url": "",
     "maintainer": "qmk",
     "layouts": {
-        "LAYOUT_60_hhkb": {
+        "LAYOUT_60_hhkb_tsangan": {
             "layout": [
                 {"x":0, "y":0},
                 {"x":1, "y":0},
