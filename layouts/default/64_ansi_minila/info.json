@@ -1,9 +1,9 @@
 {
-    "keyboard_name": "60% Minila Layout",
+    "keyboard_name": "60% ANSI Minila Layout",
     "url": "",
     "maintainer": "qmk",
     "layouts": {
-        "LAYOUT_60_minila": {
+        "LAYOUT_64_ansi_minila": {
             "layout": [
                 {"x":0, "y":0},
                 {"x":1, "y":0},
