@@ -1,7 +1,7 @@
 {
-    "keyboard_name": "60% ANSI Arrow with split Backspace Layout",
+    "keyboard_name": "60% ANSI Arrow Layout with Split Backspace",
     "url": "",
-    "maintainer": "",
+    "maintainer": "qmk",
     "layouts": {
         "LAYOUT_60_ansi_arrow_split_bs": {
             "layout": [
