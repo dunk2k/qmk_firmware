@@ -1,0 +1,14 @@
+{
+    "60_hhkb": {
+        "target": "60_hhkb_tsangan"
+    },
+    "60_tsangan_hhkb": {
+        "target": "60_ansi_tsangan_split_bs_rshift"
+    },
+    "64_ansi": {
+        "target": "60_ansi_64key"
+    },
+    "64_iso": {
+        "target": "60_iso_64key"
+    }
+}
