@@ -1,5 +1,7 @@
 # Composite Community Layouts
 
+Composite layouts are possible layouts composed from more than one Community Layout
+
 ## Summary of Layouts
 
 ### 60% Form Factor
