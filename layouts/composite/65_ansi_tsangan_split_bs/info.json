@@ -1,9 +1,9 @@
 {
-    "keyboard_name": "65% ANSI layout with 7u Spacebar and Split Backpsace",
+    "keyboard_name": "65% ANSI layout with partial Tsangan bottom and split Backspace",
     "url": "",
     "maintainer": "qmk",
     "layouts": {
-        "LAYOUT_65_ansi_7u_spc_split_bs": {
+        "LAYOUT_65_ansi_tsangan_split_bs": {
             "layout": [
                 {"x":0, "y":0},
                 {"x":1, "y":0},
